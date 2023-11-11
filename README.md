@@ -24,7 +24,7 @@ Iterate in nested loop to increment the variable
 Print the variable
 
 ## PROGRAM:
-'''
+```
 PROGRAM TO COUNT THE WORDS IN FILE
 REGISTER NO : 23000630
 NAME: HARISH G
@@ -36,7 +36,7 @@ with open(fname,'r')as f:
         words=line.split()
         num_words+=len(words)
 print('Number of words: ',num_words)   
-
+```
 
 ### OUTPUT:
 
