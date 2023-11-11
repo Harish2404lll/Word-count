@@ -28,7 +28,7 @@ Print the variable
 PROGRAM TO COUNT THE WORDS IN FILE
 REGISTER NO : 23000630
 NAME: HARISH G
-```
+
 fname=input("enter the file name:")
 num_words=0
 with open(fname,'r')as f:
